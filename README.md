@@ -17,8 +17,8 @@ This repository contains implementations and experiments related to **Semantic S
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashpalsince2004/Semantic-Segmentation-with-TensorFlow-.git
-   cd Semantic-Segmentation-with-TensorFlow-
+   git clone hhttps://github.com/yashpalsince2004/Bert_process.git
+   cd Bert_process
    ```
 
 2. Install dependencies:
